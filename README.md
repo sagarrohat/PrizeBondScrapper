@@ -1,3 +1,3 @@
 # PrizeBondScrapper
 
-Scraps Prize Bond Data.
+Scraps Prize Bond Data from http://savings.gov.pk/.
